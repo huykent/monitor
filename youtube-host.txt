@@ -498,3 +498,7 @@ r4.sn-5ualdn7d.googlevideo.com
 r1.sn-5goeen7d.googlevideo.com
 r2.sn-5goeen7d.googlevideo.com
 r4.sn-5goeen7d.googlevideo.com
+r7---sn-8qj-i5ozd.googlevideo.com
+r7---sn-8qj-i5ozd.googlevideo.com
+r5---sn-8qj-i5ozr.googlevideo.com
+r5---sn-8qj-i5ozr.googlevideo.com
